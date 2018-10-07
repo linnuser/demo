@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D0188641-3623-4047-B283-689987C7D0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinnScannerLogic", "LinnScannerLogic\LinnScannerLogic.csproj", "{66956F9C-92D5-4AE0-AAC6-37DAA282BC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0188641-3623-4047-B283-689987C7D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0188641-3623-4047-B283-689987C7D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0188641-3623-4047-B283-689987C7D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0188641-3623-4047-B283-689987C7D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66956F9C-92D5-4AE0-AAC6-37DAA282BC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66956F9C-92D5-4AE0-AAC6-37DAA282BC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66956F9C-92D5-4AE0-AAC6-37DAA282BC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66956F9C-92D5-4AE0-AAC6-37DAA282BC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C3E7241-C0AC-4E65-85DE-06891C0B0319}
+	EndGlobalSection
+EndGlobal
